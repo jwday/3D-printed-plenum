@@ -17,7 +17,7 @@ The plenum halves are printed dome-side up with necessary support structure. Eac
 
 - Coarse sanding the inside with 100-grit sandpaper
 - Marking orientation of plenum to M5-to-1/8" fitting to ensure final assembly is correctly aligned
-- Mixing 2-part epoxy (BSI 30 minute slow-cure epoxy was used)
+- Mixing 2-part epoxy (Bob Smith Industries 30 minute slow-cure epoxy was used)
 - Applying 2-part epoxy to interior of plenum with fitting held in place
 - Allowing 24 hours for epoxy to cure
 - Fine sanding the sealing surface with 400-grit sandpaper
