@@ -16,7 +16,7 @@ The plenum assembly (shown below) consists of the following components:
 The plenum halves are printed dome-side up with necessary support structure. Each plenum half is post-processed after printing with a round of sanding and epoxying, outlined as follows:
 
 - Coarse sanding the inside with 100-grit sandpaper
-- Marking orientation of plenum to M5-to-1/8" fitting to ensure final valve+plenum+valve assembly is correctly aligned
+- Marking orientation of plenum to M5-to-1/8" fitting to ensure final assembly is correctly aligned
 - Mixing 2-part epoxy (BSI 30 minute slow-cure epoxy was used)
 - Applying 2-part epoxy to interior of plenum with fitting held in place
 - Allowing 24 hours for epoxy to cure
