@@ -1,4 +1,4 @@
-# 3D-printed-plenum
+# 3D-Printed Plenum for Cold Gas Propulsion
 CAD model and description of 3D-printed plenum volume used in the development of a highly reliable cold gas propulsion system.
 
 The plenum assembly (shown below) consists of the following components:
