@@ -25,7 +25,7 @@ The plenum halves are printed dome-side up with necessary support structure. Eac
 
 ![Plenum with valves assembled](/valve-plenum-valve-botho.PNG)
 
-![Plenum with valves assembled - real](/plenum-assembled-real.jpg)
+![Plenum during epoxying](/plenum-epoxy_glove.jpg) ![Plenum with valves assembled - real](/plenum-assembled-real.jpg)
 
 Using a set of alignment jigs to hold the barbed fittings in place, the plenum assemblies could be sat dome-side down and allow the epoxy to pool to some degree at the bottom, further adhering the barbed fitting to the plenum structure and creating a strong, air-tight sealing surface. Once curing and wet sanding has taken place, the plenum can be assembled and pressurized.
 
